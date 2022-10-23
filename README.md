@@ -14,6 +14,3 @@
 ### Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/behance.net/demakov_andrii) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/demakov_a) 
 
-
----
-[![](https://visitcount.itsvg.in/api?id=DemakovAndrii&icon=5&color=11)](https://visitcount.itsvg.in)
